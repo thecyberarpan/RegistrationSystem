@@ -3,7 +3,7 @@
 
 ackend technologies, while utilizing HTML, CSS, and JavaScript for the frontend. The system provides a seamless user registration process and serves as a robust foundation for managing user accounts on a web application.
 
-<h1> Key Features: <h1>
+<h1> Key Features: </h1>
 
 User Registration: The system allows users to create new accounts by providing essential information, such as username, email address, and password. It ensures secure storage of user credentials by utilizing industry-standard encryption techniques.
 
