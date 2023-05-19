@@ -5,7 +5,7 @@ ackend technologies, while utilizing HTML, CSS, and JavaScript for the frontend.
 
 <h1> Key Features: </h1>
 
-<li> <b> User Registration: The system allows users to create new accounts by providing essential information, such as username, email address, and password. It ensures secure storage of user credentials by utilizing industry-standard encryption techniques. </li>
+<li> <b> User Registration: </b> The system allows users to create new accounts by providing essential information, such as username, email address, and password. It ensures secure storage of user credentials by utilizing industry-standard encryption techniques. </li>
 
 <li> Account Validation: To maintain the integrity of user accounts, the system incorporates an account validation mechanism. Upon registration, users receive a confirmation email containing a unique verification link. By clicking the link, users can verify their email addresses and activate their accounts. </li>
 
