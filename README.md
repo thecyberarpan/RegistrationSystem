@@ -7,21 +7,21 @@ ackend technologies, while utilizing HTML, CSS, and JavaScript for the frontend.
 
 <li> User Registration: The system allows users to create new accounts by providing essential information, such as username, email address, and password. It ensures secure storage of user credentials by utilizing industry-standard encryption techniques. </li>
 
-Account Validation: To maintain the integrity of user accounts, the system incorporates an account validation mechanism. Upon registration, users receive a confirmation email containing a unique verification link. By clicking the link, users can verify their email addresses and activate their accounts.
+<li> Account Validation: To maintain the integrity of user accounts, the system incorporates an account validation mechanism. Upon registration, users receive a confirmation email containing a unique verification link. By clicking the link, users can verify their email addresses and activate their accounts. </li>
 
-User Authentication: Once registered and verified, users can securely log in to their accounts using their chosen credentials. The system employs session management techniques to maintain user authentication throughout their browsing sessions, ensuring a seamless and secure user experience.
+<li> User Authentication: Once registered and verified, users can securely log in to their accounts using their chosen credentials. The system employs session management techniques to maintain user authentication throughout their browsing sessions, ensuring a seamless and secure user experience. </li>
 
-Password Reset: In case users forget their passwords, the system includes a password reset functionality. By providing their registered email address, users receive an email with instructions on how to reset their password securely. This feature enhances the overall user experience by minimizing potential account access issues.
+<li> Password Reset: In case users forget their passwords, the system includes a password reset functionality. By providing their registered email address, users receive an email with instructions on how to reset their password securely. This feature enhances the overall user experience by minimizing potential account access issues. </li>
 
-Account Management: The system offers users the ability to update their account details, such as username, email address, and password. It ensures that users have full control over their account information and can modify it as required.
+<li> Account Management: The system offers users the ability to update their account details, such as username, email address, and password. It ensures that users have full control over their account information and can modify it as required. </li>
 
-User Profile: Along with basic registration details, the system provides users with an optional profile section where they can add additional personal information or customize their profiles. This feature enhances user engagement and personalization within the web application.
+<li> User Profile: Along with basic registration details, the system provides users with an optional profile section where they can add additional personal information or customize their profiles. This feature enhances user engagement and personalization within the web application. </li>
 
-Error Handling and Validation: The system implements comprehensive error handling and input validation techniques to ensure data integrity and minimize potential security vulnerabilities. It prevents unauthorized access and malicious activities by validating user input and enforcing strict security measures.
+<li> Error Handling and Validation: The system implements comprehensive error handling and input validation techniques to ensure data integrity and minimize potential security vulnerabilities. It prevents unauthorized access and malicious activities by validating user input and enforcing strict security measures. </li>
 
-Responsive Design: The frontend of the user registration system incorporates HTML, CSS, and JavaScript to create an intuitive and visually appealing user interface. The design follows responsive principles, allowing seamless usage across different devices and screen sizes.
+<li> Responsive Design: The frontend of the user registration system incorporates HTML, CSS, and JavaScript to create an intuitive and visually appealing user interface. The design follows responsive principles, allowing seamless usage across different devices and screen sizes. </li>
 
-Version Control and Collaboration: The project code will be hosted on GitHub, enabling version control, collaborative development, and easy deployment. Utilizing Git, developers can work simultaneously, track changes, and resolve conflicts efficiently.
+<li> Version Control and Collaboration: The project code will be hosted on GitHub, enabling version control, collaborative development, and easy deployment. Utilizing Git, developers can work simultaneously, track changes, and resolve conflicts efficiently. </li>
 
 
 
