@@ -23,7 +23,7 @@ Responsive Design: The frontend of the user registration system incorporates HTM
 
 Version Control and Collaboration: The project code will be hosted on GitHub, enabling version control, collaborative development, and easy deployment. Utilizing Git, developers can work simultaneously, track changes, and resolve conflicts efficiently.
 
-====================
+
 
 <h1 align="center">Hi 👋, I'm Arpan</h1>
 <h3 align="center">A passionate Ethical hacking & programming</h3>
