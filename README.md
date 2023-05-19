@@ -22,6 +22,7 @@ Error Handling and Validation: The system implements comprehensive error handlin
 Responsive Design: The frontend of the user registration system incorporates HTML, CSS, and JavaScript to create an intuitive and visually appealing user interface. The design follows responsive principles, allowing seamless usage across different devices and screen sizes.
 
 Version Control and Collaboration: The project code will be hosted on GitHub, enabling version control, collaborative development, and easy deployment. Utilizing Git, developers can work simultaneously, track changes, and resolve conflicts efficiently.
+
 ====================
 
 <h1 align="center">Hi 👋, I'm Arpan</h1>
