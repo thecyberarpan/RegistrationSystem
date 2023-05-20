@@ -20,11 +20,10 @@ def SignupPage(request):
         if pass1 != pass2:
             return HttpResponse("Your password are not matched")
         else:
-            # print(uname, email, pass1, pass2)
+
             my_user = User.objects.create_user(uname, email, pass1)
             my_user.save()
         return redirect('login')
-        # return HttpResponse("User created succesfully")
 
     return render(request, 'signup.html')
 
